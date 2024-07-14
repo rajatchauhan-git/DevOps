@@ -1,7 +1,4 @@
-This is the first featire of our application.
-<<<<<<< HEAD
+This is the first featire of our application
 This is the bug fix in development branch
 This is gadbad code
 This feature will gadbad everything from now
-=======
->>>>>>> parent of 77bda95 (Added feature2 in development branch)
