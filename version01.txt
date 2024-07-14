@@ -2,4 +2,6 @@ This is the first featire of our application.
 This is the bug fix in development branch
 This is gadbad code
 This feature will gadbad everything from now
+HEAD
 parent of f1269a4 (Added feature4 in development branch)
+parent of 7ea1877 (removed the conflict)
